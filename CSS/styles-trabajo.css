@@ -7,3 +7,33 @@ body {
 p{
     color:aliceblue;
 }
+.parrafo{
+    padding: 1em;
+    font-size: 1000;
+    margin-bottom: -1px;
+}  
+.parrafo1{
+        padding: 1em;
+    font-size: 1000;
+    margin-bottom: -3px;
+}
+.parrafo2{
+            padding: 1em;
+    font-size: 1000;
+    margin-bottom: -3px;
+}
+.parrafo3{
+            padding: 1em;
+    font-size: 1000;
+    margin-bottom: -3px;
+}
+.parrafo4{
+            padding: 1em;
+    font-size: 1000;
+    margin-bottom: -3px;
+}
+.parrafo5{
+            padding: 1em;
+    font-size: 1000;
+    margin-bottom: -100px;
+}
